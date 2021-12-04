@@ -1,0 +1,2 @@
+# RollerCoasterclass
+	In assignment 10.1, I created a class with  a roller coaster. In this class, it calls for speed, color, position, and already has included the number of seats and wheels it has. The max speed is set to 150ms. There are two methods that call for position whether it's forwards or backwards. Apart from position there is also a method that calls the speed of the roller coaster as well calling an error if the speed is set to anything less than 0 because then the coaster wont move.
